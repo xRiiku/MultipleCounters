@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.parent{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 18pt;
+  gap: 2rem;
+}
+
+button{
+  width: 80px;
+  height: 50px;
+  font-size: 18pt;
+}
